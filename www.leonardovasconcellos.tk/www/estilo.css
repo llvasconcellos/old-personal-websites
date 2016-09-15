@@ -1,0 +1,44 @@
+.menuesq {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	color: #666666;
+}
+.menuesq:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: underline;
+	color: #000000;
+}
+.conteudo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.celulaconteudo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+	padding: 20px;
+}
+
+.menuesq2 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFFFFF;
+}
+.navegacao {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: none;
+	color: #C5C1D5;
+}
+.navegacao:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	text-decoration: underline;
+	color: #C5C1D5;
+}
+.menufadein {
+	filter: progid:DXImageTransform.Microsoft.Alpha(style=0,opacity=88);
+}
